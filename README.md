@@ -4,7 +4,9 @@ Ce dépôt contient ma progression quotidienne en Python.
 
 ### 🎯 Objectif :
 
-Maîtriser l'automatisation et l'analyse de données.
+- Maîtriser l'automatisation.
+- Apprendre l'analyse de données.
+- Pratiquer le workflow Git/GitHub.
 
 ---
 
