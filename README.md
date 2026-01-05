@@ -10,4 +10,4 @@ Ce dépôt contient ma progression quotidienne en Python.
 
 ---
 
-_Ce projet est suivi avec Git et GitHub._
+_Ce projet est crée par Armiya._
