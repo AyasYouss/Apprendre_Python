@@ -1,13 +1,15 @@
-# Mon Apprentissage de Python
+# ��� Mon Apprentissage de Python
 
-Ce dépôt contient ma progression quotidienne en Python.
+Ce dépôt contient ma progression quotidienne en Python, avec un focus particulier sur la gestion de données de santé (Biostatistiques).
 
-### 🎯 Objectif :
+### ��� Objectifs :
+- **Maîtriser l'automatisation** pour gagner en efficacité.
+- **Apprendre l'analyse de données** avec la stack Data Science (Pandas, NumPy).
+- **Pratiquer le workflow Git/GitHub** de manière professionnelle.
 
-- Maîtriser l'automatisation.
-- Apprendre l'analyse de données.
-- Pratiquer le workflow Git/GitHub.
+### ���️ Environnement Technique :
+- **Packages installés :** Pandas, Scikit-Learn, Matplotlib.
+- **Gestion :** Environnement virtuel (`.venv`) et `requirements.txt`.
 
 ---
-
-_Ce projet est crée par Armiya._
+_Ce projet est créé par Armiya à Paris._
